@@ -1,0 +1,17 @@
+{
+    "name": "aamarpay/pgtest",
+    "description": "it is a form",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aamarpay\\Pgtest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sabah Raad"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
